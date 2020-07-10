@@ -1,4 +1,4 @@
-package ru.begletsov.javarush;
+package ru.begletsov.javarush.slow;
 
 /**
  * Class BubbleSort сортировка данных методом пузырька
